@@ -17,7 +17,6 @@ Welcome to the **Stock Market Tracker App**, a fun and educational platform that
 ### 3. Portfolio Tracking
 - Track the performance of your virtual portfolio over time.
 - View analytics, including profit/loss, portfolio diversification, and more.
-- 
 ### 4. Expense Tracking
 
 - Keep track of your virtual expenses related to stock purchases.
